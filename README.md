@@ -1,6 +1,5 @@
 # Topics
-
 Hier finden Sie offene Themen für Projektarbeiten und Abschlussarbeiten.
+Hinweis: Die Projektarbeiten auch in 2er-Teams bearbeitet werden.
 
-Wenn Sie eines der Themen belegen möchten, kontaktieren Sie über [IWI-Mattermost](https://mattermost.hska-iwi.de/) (Username: @pabaier).
-
+Wer Interesse an einem der Themen hat, kontaktiet mich bitte über [IWI-Mattermost](https://mattermost.hska-iwi.de/) (Username: @pabaier).
