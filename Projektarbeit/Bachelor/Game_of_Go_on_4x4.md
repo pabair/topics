@@ -6,7 +6,7 @@ In dieser Projektarbeit soll eine kleine Version dieses Spiels auf einem 4x4 Bre
 
 Die Arbeitsschritte sind wie folgt:
 - Einlesen in die Spielregeln von Go
-- Einlesen in die Python-Bibliothek PyGame
+- Einlesen in die Python-Bibliothek [PyGame](https://github.com/pygame/pygame)
 - Implementieren eines einfachen Go-Spiels
 - Schreiben einer einfachen KI-Logik um den Computerspieler zu steuern
 
