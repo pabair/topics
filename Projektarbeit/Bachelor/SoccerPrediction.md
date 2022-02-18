@@ -2,7 +2,7 @@
 
 Ziel der Projektarbeit ist es einen Machine Learning Algorithmus für die
 Vorhersage von Fußballspielen zu erstellen. Dazu soll im ersten Schritt auf Basis
-einer (Kaggle-Challenge)[https://www.kaggle.com/c/football-match-probability-prediction]
+einer [Kaggle-Challenge](https://www.kaggle.com/c/football-match-probability-prediction)
 ein einfaches Modell zur Vorhersage erstellt werden. Weitere mögliche Schritte sind dann:
 
 - Analyse der vorhandenen Lösungen auf Kaggle und ggf. Nachimplementieren dieser
