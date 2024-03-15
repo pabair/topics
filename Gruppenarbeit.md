@@ -1,6 +1,6 @@
 # Projektarbeit als Gruppe
 
-Die angebotene Projektarbeit wird als Gruppenarbeit durchgeführt (drei oder vier Personen).
+Die angebotene Projektarbeit wird als Gruppenarbeit durchgeführt (zwei oder drei Personen).
 Um Ihnen die Chance zu geben selbst eine Gruppe zu bilden (das Zuteilungssystem im Intranet würde die Gruppen blind zusammenwürfeln), folgt die Vergabe dieser Projektarbeit nach folgendem Ablauf:
 
 Wenn Sie als Gruppe an der Projektarbeit interessiert sind, dann schicken Sie mir bis heute um 12:00 Uhr eine E-Mail mit folgenden Informationen:
