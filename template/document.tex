@@ -1,0 +1,89 @@
+% Beispiel Dokument
+\documentclass[12pt,digital]{hska}
+
+\addbibresource{document.bib}
+
+% Erstellung eines Index und Abkürzungsverzeichnisses/Glossars aktivieren ------------------------------
+% \makeindex{}
+% \makenomenclature{}
+
+% Das eigentliche Dokument -----------------------------------------------------------------------------
+% ------------------------------------------------------------------------------------------------------
+\begin{document}
+
+% Titelblatt
+% ------------------------------------------------------------------------------------------------------
+
+% vorgegebene Seite verwenden, zB bei Bachelor- oder Masterarbeit:
+% ------------------------------------------------------------------------------------------------------
+% \thispagestyle{plain}
+% \begin{titlepage}
+% \includepdf[pages={1}]{sections/coverpage.pdf}
+% \end{titlepage}
+
+% einfache Seite selbst schreiben:
+% ------------------------------------------------------------------------------------------------------
+\thispagestyle{plain}
+\begin{titlepage}
+\begin{center}
+% Logo der HSKA
+\includegraphics[width=0.7\textwidth]{images/hka_logo.png}\\[12ex]
+
+\LARGE{\textbf{Seminararbeit}}\\[8ex]
+
+\textbf{Titel der Arbeit\\
+ggf. zweizeilig}\\[12ex]
+
+\normalsize{}
+\begin{tabular}{lll}
+Student:  & \quad Max Muster\\[3ex]
+Betreuer:  & \quad Prof. Dr. Patrick Baier &\\[3ex]
+Semester: & \quad Sommersemester 2023\\[3ex]
+\end{tabular}
+
+\end{center}
+\end{titlepage}
+
+% Seitennummerierung -----------------------------------------------------------------------------------
+%   Vor dem Hauptteil werden die Seiten in großen römischen Ziffern nummeriert.
+% ------------------------------------------------------------------------------------------------------
+\pagenumbering{Roman}
+\phantomsection{} % Sorgt für korrekte Aufnahme des Inhaltsverzeichnisses in das Inhaltsverzeichnis
+\addcontentsline{toc}{section}{Inhaltsverzeichnis}
+\tableofcontents
+
+% arabische Seitenzahlen im Hauptteil ------------------------------------------------------------------
+\clearpage{}
+\pagenumbering{arabic}
+\setcounter{page}{2} %%% Dieser Pagecounter muss entsprechend der verbrauchten Seiten im Inhaltsverzeichnis angepasst werden. Endet das IHV bei Seite III, so muss hier 4 eingetragen werden
+
+
+
+% Inhalt -----------------------------------------------------------------------------------------------
+% ------------------------------------------------------------------------------------------------------
+
+% Kapitel sinnvollerweise in eigene Dateien schreiben und einbinden
+\input{./sections/1_introduction}
+% Neue Seite nach Kapitel
+\clearpage{}
+
+
+
+% Literaturverzeichnis ---------------------------------------------------------------------------------
+%   Das Literaturverzeichnis wird ggf. aus der BibTeX-Datenbank "document.bib" erstellt.
+% ------------------------------------------------------------------------------------------------------
+% Quelle ins Quellenverzeichnis aufnehmen, die im Dokument nicht genutzt wird.
+\nocite{logo_hska}
+\renewcommand\refname{Quellen}
+\printbibliography
+
+
+
+% Anhang -----------------------------------------------------------------------------------------------
+%\begin{appendix}
+ %   \clearpage{}
+  %  \pagenumbering{roman}
+%	\section{Anhang}
+%\end{appendix}
+
+\end{document}

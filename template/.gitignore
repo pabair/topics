@@ -1,0 +1,20 @@
+.DS_Store
+
+# Build Artifakte ignorieren
+*.bcf
+*.xdv
+*.aux
+*.fls
+*.log
+*.run.xml
+*.blg
+*.bbl
+*.out
+*.toc
+*.fdb_latexmk
+*.synctex*
+
+# Build Ergebnis ignorieren
+*.pdf
+# PDF Bilder einschließen
+!images/*.pdf
