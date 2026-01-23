@@ -16,5 +16,5 @@ Voraussetzungen für die Projektarbeit sind:
 
 Teamgröße: 1–2 Personen
 
-Bei Interesse senden Sie bitte bis Ende des Monats eine kurze E-Mail an
+Bei Interesse senden Sie bitte bis Ende Januar eine kurze E-Mail an
 Prof. Patrick Baier.
