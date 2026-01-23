@@ -2,7 +2,7 @@ Liebe Studierende,
 
 im Sommersemester 2026 besteht die Möglichkeit, eine Projektarbeit im Bereich „Datenanalyse im Fußball“ in Kooperation mit der U17 des Karlsruher SC durchzuführen.
 
-Wie auch im Seniorenbereich stehen im Jugendfußball bereits zahlreiche Spieldaten zur Verfügung (z. B. Ballkontakte, Schüße, xGoals, PPDA etc.). Diese sollen genutzt werden, um verschiedene Fragestellungen aus dem Fußballumfeld datenbasiert zu untersuchen, etwa zur Gegneranalyse, zur Erstellung von Spielerprofilen oder zur Belastungssteuerung.
+Wie auch im Seniorenbereich stehen im Jugendfußball bereits zahlreiche Spieldaten zur Verfügung (z. B. Ballkontakte, Schüsse, xGoals, PPDA etc.). Diese sollen genutzt werden, um verschiedene Fragestellungen aus dem Fußballumfeld datenbasiert zu untersuchen, etwa zur Gegneranalyse, zur Erstellung von Spielerprofilen oder zur Belastungssteuerung.
 
 Im Rahmen der Projektarbeit werden reale Daten aus der U17-Bundesliga bereitgestellt. Ziel ist es, in Zusammenarbeit mit dem Trainerteam der KSC U17 verschiedene Reports und Auswertungen zu entwickeln.
 
